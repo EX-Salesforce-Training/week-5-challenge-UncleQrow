@@ -1,0 +1,21 @@
+ /*Selector*/
+ body {
+     background-color: skyblue;
+     font-size: 20px;
+     text-align: center;
+ }
+
+ /*Class*/
+ .light {background-color: lightblue; color: white; border-style: groove; border-color: yellow;}
+ .dark {background-color: rgb(228, 32, 32); color: darkred; border-style: dotted; border-color: brown;}
+ .Jobs {border: 5px solid black;}
+
+ /*ID*/
+ #hello {
+     background-color: blue;
+     border: 5px solid;
+     border-color: blanchedalmond;
+     padding: 10px;
+     margin: 20px;
+     ;
+ }
